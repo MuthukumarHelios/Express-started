@@ -1,8 +1,18 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+<<<<<<< HEAD
+=======
+  background: green; 	
+>>>>>>> 165a96acef3474bf8f676be8a3fc2691f6f951b3
 }
 
 a {
   color: #00B7FF;
 }
+<<<<<<< HEAD
+=======
+h1{
+	color: yellow;
+}
+>>>>>>> 165a96acef3474bf8f676be8a3fc2691f6f951b3
